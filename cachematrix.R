@@ -1,6 +1,8 @@
 ## Cache Matrix Functions: these functions together compute the inverse
 ## of a matrix, cache the inverse, then allow the user to retrieve
 ## the inverse without having to run the computation a second time.
+## This code is based off of the makeVector and getmean functions
+## supplied in the assignment documentation.
 
 
 ## This function creates a special matrix that's the inverse of
